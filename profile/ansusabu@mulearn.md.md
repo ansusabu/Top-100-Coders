@@ -2,7 +2,11 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I have been working in CyberSecurity field for the past 7 years. My love for coding was kindled back in college and has been a driving force in my life ever since.
+
+As a coding enthusiast, I find joy in the challenges and problem-solving oppurtunities that coding provides. I always try to not to miss a chance to participate in coding contests. 
+
+My work in cybersecurity involves using my coding skills to enhance security measures.It's an everchanging field, and I'm proud to contribute to protecting digital systems and data
 
 
 ### Portfolio Highlights
@@ -11,7 +15,7 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+With 7 years in the cybersecurity field, I have accumulated extensive practical experience dealing with various secuirty challenges. Being a leader or a mentor involves not just having expertise but also sharing knowledge. I actively engage in knowledge-sharing through mentorship.
 
 #### Networking: `required field`
 
